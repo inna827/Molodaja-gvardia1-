@@ -1,4 +1,4 @@
-# Molodaja-gvardia1-
+# Molodaja-gvardia1
 import time
 import random
 import sys # Для sys.exit() и sys.stdout.write
